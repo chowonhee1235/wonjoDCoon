@@ -78,6 +78,7 @@ body {
   height: 1.375rem;
   margin: 0 0 0 0.1rem;
   border: 0.125rem solid rgba(0, 0, 0, 0.5);
+  display:none
 }
 /* Messages */
 .chat_lower_box {
